@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=50&pause=450&color=FF6B00&center=true&vCenter=true&width=1200&height=140&lines=OVERWATCH+2+HACK+2026;AIMBOT+%7C+ESP+%7C+NO+RECOIL;DOMINATE+THE+ARENA" alt="Overwatch 2 Hack 2026" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/111df80c-00a0-4327-800e-eed063919c15" />
 
 <br/>
 
